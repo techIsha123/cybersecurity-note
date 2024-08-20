@@ -1,13 +1,7 @@
 # Cybersecurity Lab Setup
 
-This repository contains resources and instructions for setting up a cybersecurity lab. The lab environment is designed to simulate real-world scenarios for testing and learning about cybersecurity threats and defenses.
+This repository contains the setup and exercises for a cybersecurity lab. The lab is designed to simulate various cyber threats and defenses in a controlled environment.
 
 ## Contents
-- Documentation
-- Scripts
-- Configurations
-- Examples
-
-## Getting Started
-Follow the instructions in the `docs/setup_guide.md` to set up your lab environment.
-
+- `setup/`: Scripts and configurations for setting up the lab environment.
+- `exercises/`: Practical exercises to enhance cybersecurity skills.
