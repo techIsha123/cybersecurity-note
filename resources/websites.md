@@ -1,4 +1,0 @@
-# Websites
-
-- OWASP
-- Kali Linux
